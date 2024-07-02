@@ -1,0 +1,8 @@
+Lass uns versuchen, eine for-Schleife zu schreiben, die abwärts zählt, anstatt aufwärts.
+Bitte schreibe eine for-Schleife, die die folgenden Zahlen (in dieser Reihenfolge) ausgibt:
+    25
+    20
+    15
+    10
+    5
+    0

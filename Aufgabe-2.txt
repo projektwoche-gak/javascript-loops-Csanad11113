@@ -1,0 +1,11 @@
+Übung zur Iteration über Arrays
+
+Ich habe dir ein Array von Zeichenketten namens people bereitgestellt.
+Iteriere mit einer for-Schleife über das people-Array und gib dabei jeden Namen in Großbuchstaben aus.
+Dein Ergebnis sollte etwa so aussehen:
+
+SCOOBY
+VELMA
+DAPHNE
+SHAGGY
+FRED
